@@ -3,5 +3,42 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG3655
   title: འཇའ་ཚོན་པོད་དྲུག
-  volume: ''
+  volume:
+    521f33a777c9442e887b67128000ee72:
+      image_group_id: I1KG4164
+      title: Volume 1 of gter chos/_'ja' tshon snying po
+      volume_number: 1
+      total_pages: 608
+    61db61db4029493099e382dc760b4189:
+      image_group_id: I1KG4165
+      title: Volume 2 of gter chos/_'ja' tshon snying po
+      volume_number: 2
+      total_pages: 674
+    0dd9bb2275d24189b86f6e1df138150d:
+      image_group_id: I1KG4166
+      title: Volume 3 of gter chos/_'ja' tshon snying po
+      volume_number: 3
+      total_pages: 396
+    18620ae60c2e452dab9d3406f411e265:
+      image_group_id: I1KG4167
+      title: Volume 4 of gter chos/_'ja' tshon snying po
+      volume_number: 4
+      total_pages: 488
+    6904dc1b001644188c3ef10eeb74a2bb:
+      image_group_id: I1KG4168
+      title: Volume 5 of gter chos/_'ja' tshon snying po
+      volume_number: 5
+      total_pages: 712
+    900147a328b34584b37d3d811529981e:
+      image_group_id: I1KG4169
+      title: Volume 6 of gter chos/_'ja' tshon snying po
+      volume_number: 6
+      total_pages: 842
   author: ''
+ebook_metadata:
+  title: འཇའ་ཚོན་པོད་དྲུག
+  author: ''
+  sku: P000487
+  cover: cover.jpg
+  layers:
+  - pagination
